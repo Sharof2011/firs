@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+    text-decoration: none;
+}
+
+.conteiner {
+    max-width: 1200px;
+    margin: auto;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 22px;
+}
+
+ul {
+    display: flex;
+    gap: 40px;
+}
+
+ul,
+a {
+    color: black;
+}
+
+header {
+    background-color: rgba(243, 215, 183, 1);
+    height: 800px;
+}
+
+.h1 {
+    width: 447px;
+    height: 150px;
+
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 100%;
+    letter-spacing: 0px;
+    margin-bottom: 47px;
+}
+
+.p {
+    width: 464px;
+    height: 72px;
+
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    margin-bottom: 47px;
+}
+
+button {
+    width: 193px;
+    height: 51px;
+
+    border-radius: 100px;
+    padding-top: 16px;
+    padding-right: 24px;
+    padding-bottom: 16px;
+    padding-left: 24px;
+    gap: 10px;
+    background: rgba(10, 119, 95, 1);
+    color: white;
+}
+
+.haram {
+    padding-top: 130px;
+    display: flex;
+    gap: 216px;
+}
+
+.hh {
+
+
+    height: 59px;
+    top: 908px;
+    left: 539.51px;
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 100%;
+    letter-spacing: 0px;
+    margin-top: 108px;
+    text-align: center;
+}
+.divlar{
+    display: flex;
+gap: 180px;
+
+}
+.main{
+
+
+
+margin-top: 42px;
+}
+.sex{
+    display: flex;
+   align-items: flex-start;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.xoji{
+    width: 454px;
+height: 68px;
+top: 1196px;
+left: 728.03px;
+font-family: Roboto;
+font-weight: 400;
+font-size: 22px;
+line-height: 34px;
+letter-spacing: 0px;
+
+}
+h2{
+    font-family: Roboto;
+font-weight: 500;
+font-size: 48px;
+line-height: 100%;
+letter-spacing: 0px;
+font-variant: small-caps;
+
+}
+.salom{
+    flex-direction: row-reverse;
+}
+.kopi2{
+    width: 451.25px;
+height: 375px;
+top: 2134px;
+left: 825.3px;
+
+}
+.sss{
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+    padding-top: 71px;
+}
+.footer{
+ background-color:    rgba(243, 215, 183, 1);
+ height: 160px;
+margin-top: 89px;
+}
+.jjj{
+    display: flex;
+    gap: 30px;
+}
